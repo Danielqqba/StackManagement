@@ -3,6 +3,7 @@
 // Omar Núñez - 1101587
 // Oliver Infante - 1100292
 // Lervis Pinales - 1096323
+// Daniel Baez - 1073597
 
 #include <iostream>
 #include <Windows.h>
